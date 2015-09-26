@@ -12,3 +12,9 @@ cd voting-client
 
 npm install
 ```
+
+Start the development server:
+
+```
+webpack-dev-server
+```
